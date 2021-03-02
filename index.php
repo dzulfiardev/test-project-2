@@ -16,6 +16,7 @@ $title = 'Git Remote';
 
 <body>
     <h1><?= $title ?></h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores debitis temporibus a perspiciatis deleniti. Quaerat deleniti, amet beatae possimus voluptate consequatur. Corrupti eligendi adipisci sunt atque iste magnam assumenda dolorem illum ab ex aut, mollitia ducimus quisquam qui omnis possimus.</p>
 </body>
 
 </html>
